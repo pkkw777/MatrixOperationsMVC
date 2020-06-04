@@ -11,4 +11,4 @@ MENU:
     1. Display input matrices
     2. Display result matrix
     
--1. End of program
+ -1. End of program
