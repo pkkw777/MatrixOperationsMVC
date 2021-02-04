@@ -1,5 +1,5 @@
-# MatrixOperationsMVC
-A simple Java matrix calculator in the console with various options using MVC.
+# Matrix Operations MVC
+A Java matrix calculator in the console with various options using MVC
 
 MENU:
  1. Enter input matrices
